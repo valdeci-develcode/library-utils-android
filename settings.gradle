@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Utils Android"
 include ':app'
+include ':brazil-decimal'
