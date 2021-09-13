@@ -1,6 +1,5 @@
-plugins {
-    id 'com.android.library'
-}
+plugins {id 'com.android.library'}
+group = 'com.github.valdeci-na'
 
 android {
     compileSdkVersion 30
